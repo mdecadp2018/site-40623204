@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623204/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623204/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623204/blog/</id><updated>2018-10-29T00:00:00+08:00</updated><entry><title>2018 Fall week8</title><link href="https://mdecadp2018.github.io/site-40623204/blog/2018-Fall-8.html" rel="alternate"></link><published>2018-10-29T00:00:00+08:00</published><updated>2018-10-29T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623204/blog/2018-Fall-8.html</id><summary type="html">&lt;p&gt;課程內容:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623204/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623204/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623204/blog/</id><updated>2018-11-05T00:00:00+08:00</updated><entry><title>2018 Fall week9</title><link href="https://mdecadp2018.github.io/site-40623204/blog/2018-Fall-9.html" rel="alternate"></link><published>2018-11-05T00:00:00+08:00</published><updated>2018-11-05T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623204/blog/2018-Fall-9.html</id><summary type="html">&lt;p&gt;如何進行期末專案專案分組:&lt;/p&gt;
+&lt;p&gt;至多六人一組, 按照前三後三的座位就坐
+確認座位對應的班級與組別, 組別序號從面對講台, 右邊第一區前三後三為第一組, 中間為第二組, 依此類推
+乙班第一組代號為 bg1, 第二組為 bg2 依此類推, 甲班第一組代號為 ag1, 第二組為 ag2 依此類推
+以學號對應帳號登入 Github
+根據 github classroom 期末專案倉儲連結, 依序加入各對應組別&lt;/p&gt;</summary><content type="html">&lt;p&gt;如何進行期末專案專案分組:&lt;/p&gt;
+&lt;p&gt;至多六人一組, 按照前三後三的座位就坐
+確認座位對應的班級與組別, 組別序號從面對講台, 右邊第一區前三後三為第一組, 中間為第二組, 依此類推
+乙班第一組代號為 bg1, 第二組為 bg2 依此類推, 甲班第一組代號為 ag1, 第二組為 ag2 依此類推
+以學號對應帳號登入 Github
+根據 github classroom 期末專案倉儲連結, 依序加入各對應組別&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall week8</title><link href="https://mdecadp2018.github.io/site-40623204/blog/2018-Fall-8.html" rel="alternate"></link><published>2018-10-29T00:00:00+08:00</published><updated>2018-10-29T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623204/blog/2018-Fall-8.html</id><summary type="html">&lt;p&gt;課程內容:&lt;/p&gt;
 &lt;p&gt;Onshape與電腦輔助設計&lt;/p&gt;
 &lt;p&gt;Onshape可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖, 此一雲端工具在假設網路無所不在的環境中, 新產品開發團隊成員可以利用雲般無所不在, 且毫無限制的電腦輔助設計套件, 協同完成各式零組件的設計與繪製&lt;/p&gt;
 &lt;p&gt;所謂雲端&lt;/p&gt;
