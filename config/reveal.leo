@@ -25,9 +25,16 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.12"><vh>w1</vh></v>
+<v t="leo.20181104215358.1"><vh>w2</vh></v>
+<v t="leo.20181104215834.1"><vh>w3</vh></v>
+<v t="leo.20181104220051.1"><vh>w4</vh></v>
+<v t="leo.20181104220053.1"><vh>w5</vh></v>
+<v t="leo.20181104220055.1"><vh>w6</vh></v>
+<v t="leo.20181104220103.1"><vh>w7</vh></v>
+<v t="leo.20181104220105.1"><vh>w8</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -129,7 +136,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623204](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -145,14 +152,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># w1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+*根據 Github Pages 說明, 建立個人課程網頁 40623204.github.io
+git clone https://github.com/mdecourse/2018fall 至近端, 以 40623204 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 (近端檢視, 遠端加入 disqus 討論區連結).
+
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -325,6 +329,49 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181104215358.1"># w2
+
+*Step1:依照Week1先去mde.tw領取個人倉儲
+
+*Step2:利用 Settings 將內定 branch 設為 gh-pages
+
+*Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
+
+*註冊onshahape
+
+</t>
+<t tx="leo.20181104215834.1"># w4
+
+*中秋佳節
+</t>
+<t tx="leo.20181104220051.1"># w4
+
+*學習使用Onshape
+
+</t>
+<t tx="leo.20181104220053.1"># w5
+
+*設計意圖指在設計進行前, 必須完成之專案目的與需求確認
+*幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
+
+</t>
+<t tx="leo.20181104220055.1"># w5
+
+*以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
+
+*說明如何升級最新的CMSimfly倉儲中的flaskapp.py
+</t>
+<t tx="leo.20181104220103.1"># w7
+
+*github無法登入:本週一開始, 就碰到 Github 無法登入的問題
+
+*發生原因:網路裝置與資料庫故障, 導致發生此一事件
+</t>
+<t tx="leo.20181104220105.1"># w8
+
+*Onshape與電腦輔助設計
+*何謂雲端
 </t>
 </tnodes>
 </leo_file>
