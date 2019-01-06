@@ -24,29 +24,47 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>w1</vh>
 <v t="leo.20180827201621.12"><vh>w1</vh></v>
 </v>
-<v t="leo.20181104221031.1"><vh>快捷鍵</vh>
+<v t="leo.20181104221031.1"><vh>w2</vh>
 <v t="leo.20181104221031.3"><vh>w2</vh></v>
 </v>
-<v t="leo.20181104221106.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181104221106.1"><vh>w3</vh>
 <v t="leo.20181104221106.4"><vh>w3</vh></v>
 </v>
-<v t="leo.20181104221109.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181104221109.1"><vh>w4</vh>
 <v t="leo.20181104221109.5"><vh>w4</vh></v>
 </v>
-<v t="leo.20181104221110.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181104221110.1"><vh>w5</vh>
 <v t="leo.20181104221110.6"><vh>w5</vh></v>
 </v>
-<v t="leo.20181104221112.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181104221112.1"><vh>w6</vh>
 <v t="leo.20181104221112.7"><vh>w6</vh></v>
 </v>
-<v t="leo.20181104221114.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181104221114.1"><vh>w7</vh>
 <v t="leo.20181104221114.8"><vh>w7</vh></v>
 </v>
-<v t="leo.20181104221116.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181104221116.1"><vh>w8</vh>
 <v t="leo.20181104221116.9"><vh>w8</vh></v>
+</v>
+<v t="leo.20190106210905.1"><vh>w9</vh>
+<v t="leo.20190106210905.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20190106211153.1" a="E"><vh>w10-12</vh>
+<v t="leo.20190106211153.2"><vh>w10-12</vh></v>
+</v>
+<v t="leo.20190106211206.1"><vh>w13-15</vh>
+<v t="leo.20190106211206.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20190106211221.1"><vh>w16</vh>
+<v t="leo.20190106211221.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20190106211229.1"><vh>w17</vh>
+<v t="leo.20190106211229.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20190106211236.1"><vh>w18期末考</vh>
+<v t="leo.20190106211236.2"><vh>w9</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -168,7 +186,7 @@ Created by [40623204](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180827201621.12"># w1
 
-*根據 Github Pages 說明, 建立個人課程網頁 40623204.github.io
+根據 Github Pages 說明, 建立個人課程網頁 40623204.github.io
 git clone https://github.com/mdecourse/2018fall 至近端, 以 40623204 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 (近端檢視, 遠端加入 disqus 討論區連結).
 
 
@@ -355,13 +373,11 @@ make.start()
 </t>
 <t tx="leo.20181104221031.3"># w2
 
-*Step1:依照Week1先去mde.tw領取個人倉儲
+Step1:依照Week1先去mde.tw領取個人倉儲
+Step2:利用 Settings 將內定 branch 設為 gh-pages
+Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
 
-*Step2:利用 Settings 將內定 branch 設為 gh-pages
-
-*Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
-
-*註冊onshahape
+註冊onshahape
 
 </t>
 <t tx="leo.20181104221106.1">&lt;section data-markdown&gt;
@@ -375,7 +391,7 @@ make.start()
 </t>
 <t tx="leo.20181104221106.4"># w3
 
-*中秋佳節
+中秋佳節
 </t>
 <t tx="leo.20181104221109.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -388,7 +404,7 @@ make.start()
 </t>
 <t tx="leo.20181104221109.5"># w4
 
-*學習使用Onshape
+學習使用Onshape
 
 </t>
 <t tx="leo.20181104221110.1">&lt;section data-markdown&gt;
@@ -402,8 +418,8 @@ make.start()
 </t>
 <t tx="leo.20181104221110.6"># w5
 
-*設計意圖指在設計進行前, 必須完成之專案目的與需求確認
-*幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
+設計意圖指在設計進行前, 必須完成之專案目的與需求確認
+幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
 
 </t>
 <t tx="leo.20181104221112.1">&lt;section data-markdown&gt;
@@ -417,9 +433,8 @@ make.start()
 </t>
 <t tx="leo.20181104221112.7"># w6
 
-*以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
-
-*說明如何升級最新的CMSimfly倉儲中的flaskapp.py
+以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
+說明如何升級最新的CMSimfly倉儲中的flaskapp.py
 </t>
 <t tx="leo.20181104221114.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -432,9 +447,9 @@ make.start()
 </t>
 <t tx="leo.20181104221114.8"># w7
 
-*github無法登入:本週一開始, 就碰到 Github 無法登入的問題
+github無法登入:本週一開始, 就碰到 Github 無法登入的問題
 
-*發生原因:網路裝置與資料庫故障, 導致發生此一事件
+發生原因:網路裝置與資料庫故障, 導致發生此一事件
 </t>
 <t tx="leo.20181104221116.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -447,8 +462,102 @@ make.start()
 </t>
 <t tx="leo.20181104221116.9"># w8
 
-*Onshape與電腦輔助設計
-*何謂雲端
+Onshape與電腦輔助設計
+何謂雲端
+</t>
+<t tx="leo.20190106210905.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106210905.2"># w9
+
+打自評成績
+說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+各組討論期末分組專題題目
+</t>
+<t tx="leo.20190106211153.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106211153.2"># w10-12
+
+整理Onshape示範手冊，並進行第一次協同
+學習如何在特定圖片加邊框
+</t>
+<t tx="leo.20190106211206.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106211206.2"># w9
+
+打自評成績
+說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+各組討論期末分組專題題目
+</t>
+<t tx="leo.20190106211221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106211221.2"># w9
+
+打自評成績
+說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+各組討論期末分組專題題目
+</t>
+<t tx="leo.20190106211229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106211229.2"># w9
+
+打自評成績
+說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+各組討論期末分組專題題目
+</t>
+<t tx="leo.20190106211236.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106211236.2"># w9
+
+打自評成績
+說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+各組討論期末分組專題題目
 </t>
 </tnodes>
 </leo_file>
