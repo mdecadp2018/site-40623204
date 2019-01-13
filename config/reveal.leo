@@ -26,7 +26,14 @@
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>w1</vh>
 <v t="leo.20180827201621.12"><vh>w1</vh></v>
-<v t="leo.20190114002848.1"><vh>w1</vh></v>
+</v>
+<v t="leo.20190114003609.1" a="E"><vh>week1</vh>
+<v t="leo.20190114003609.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114003609.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114003609.4" a="E"><vh>experience</vh>
+<v t="leo.20190114003609.5"><vh>experience</vh></v>
+</v>
 </v>
 <v t="leo.20181104221031.1"><vh>w2</vh>
 <v t="leo.20181104221031.3"><vh>w2</vh></v>
@@ -558,11 +565,41 @@ make.start()
 心得 : 這學期我學最多的是在 Onshape 上，其他幾乎是靠其他組員一點點嘗試做出來的，我只有多多少少給一些可以參考的意見，並不算幫到很多忙。也覺得還有很多時間，所以並沒有很積極完成我應該做的部分，但還是在最後一刻做好做完我應該做的那部分。
 
 </t>
-<t tx="leo.20190114002848.1"># w1
+<t tx="leo.20190114003609.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114003609.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114003609.3"># week1
+
+* 根據 Github Pages 說明, 建立個人課程網頁 40623204.github.io
+* git clone https://github.com/mdecourse/2018fall 至近端, 以 40623204 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌
+</t>
+<t tx="leo.20190114003609.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114003609.5">## week1 experience
 
 心得 : 雖然大一已經接觸過一點點 github ，但在上課的時候還是會有一些些聽不懂的地方，回家之後有看老師上傳的影片，現在能夠清楚知道老師上課要我們做什麼了。
-
- 
 
 </t>
 </tnodes>
