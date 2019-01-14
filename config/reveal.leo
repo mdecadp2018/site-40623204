@@ -25,18 +25,18 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190114003609.1"><vh>week1</vh>
-<v t="leo.20190114003609.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114003609.2"><vh>學習課程</vh>
 <v t="leo.20190114003609.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114003609.4" a="E"><vh>experience</vh>
+<v t="leo.20190114003609.4"><vh>experience</vh>
 <v t="leo.20190114003609.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121300.1"><vh>week2</vh>
-<v t="leo.20190114121300.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121300.2"><vh>學習課程</vh>
 <v t="leo.20190114121300.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121300.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121300.4"><vh>experience</vh>
 <v t="leo.20190114121300.5"><vh>experience</vh></v>
 </v>
 </v>
@@ -49,78 +49,104 @@
 </v>
 </v>
 <v t="leo.20190114121547.1"><vh>week4</vh>
-<v t="leo.20190114121547.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121547.2"><vh>學習課程</vh>
 <v t="leo.20190114121547.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121547.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121547.4"><vh>experience</vh>
 <v t="leo.20190114121547.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121645.1"><vh>week5</vh>
-<v t="leo.20190114121645.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121645.2"><vh>學習課程</vh>
 <v t="leo.20190114121645.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121645.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121645.4"><vh>experience</vh>
 <v t="leo.20190114121645.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121735.1"><vh>week6</vh>
-<v t="leo.20190114121735.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121735.2"><vh>學習課程</vh>
 <v t="leo.20190114121735.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121735.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121735.4"><vh>experience</vh>
 <v t="leo.20190114121735.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121826.1"><vh>week7</vh>
-<v t="leo.20190114121826.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121826.2"><vh>學習課程</vh>
 <v t="leo.20190114121826.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121826.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121826.4"><vh>experience</vh>
 <v t="leo.20190114121826.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121912.1"><vh>week8</vh>
-<v t="leo.20190114121912.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121912.2"><vh>學習課程</vh>
 <v t="leo.20190114121912.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121912.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121912.4"><vh>experience</vh>
 <v t="leo.20190114121912.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114122005.1"><vh>week9-期中考</vh>
-<v t="leo.20190114122005.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114122005.2"><vh>學習課程</vh>
 <v t="leo.20190114122005.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114122005.4" a="E"><vh>experience</vh>
+<v t="leo.20190114122005.4"><vh>experience</vh>
 <v t="leo.20190114122005.5"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190114122121.1" a="E"><vh>week10-12</vh>
-<v t="leo.20190114122121.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114122121.1"><vh>week10-12</vh>
+<v t="leo.20190114122121.2"><vh>學習課程</vh>
 <v t="leo.20190114122121.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114122121.4" a="E"><vh>week10experience</vh>
+<v t="leo.20190114122121.4"><vh>week10final project experience</vh>
 <v t="leo.20190114122121.5"><vh>experience</vh></v>
 </v>
-<v t="leo.20190114122215.1" a="E"><vh>week11experience</vh>
+<v t="leo.20190114122215.1"><vh>week11final project experience</vh>
 <v t="leo.20190114122215.2"><vh>experience</vh></v>
 </v>
-<v t="leo.20190114122217.1" a="E"><vh>week12experience</vh>
+<v t="leo.20190114122217.1"><vh>week12final project experience</vh>
 <v t="leo.20190114122217.2"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190106211206.1" a="E"><vh>w13-15</vh>
-<v t="leo.20190106211206.2"><vh>w13-15</vh></v>
+<v t="leo.20190114224308.1"><vh>week13-15</vh>
+<v t="leo.20190114224308.2"><vh>學習課程</vh>
+<v t="leo.20190114224308.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190106211221.1" a="E"><vh>w16</vh>
-<v t="leo.20190106211221.2"><vh>w16</vh></v>
+<v t="leo.20190114224308.4"><vh>week13final project experience</vh>
+<v t="leo.20190114224308.5"><vh>experience</vh></v>
 </v>
-<v t="leo.20190106211229.1" a="E"><vh>w17</vh>
-<v t="leo.20190106211229.2"><vh>w17</vh></v>
+<v t="leo.20190114224308.6"><vh>week14final project experience</vh>
+<v t="leo.20190114224308.7"><vh>experience</vh></v>
 </v>
-<v t="leo.20190106211236.1" a="E"><vh>w18期末考</vh>
-<v t="leo.20190106211236.2"><vh>w18期末考</vh></v>
+<v t="leo.20190114224308.8"><vh>week15final project experience</vh>
+<v t="leo.20190114224308.9"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114224600.1"><vh>week16</vh>
+<v t="leo.20190114224600.2"><vh>學習課程</vh>
+<v t="leo.20190114224600.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114224600.4"><vh>week16 final project experience</vh>
+<v t="leo.20190114224600.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114224818.1"><vh>week17</vh>
+<v t="leo.20190114224818.2"><vh>學習課程</vh>
+<v t="leo.20190114224818.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114224818.4"><vh>week17 final project experience</vh>
+<v t="leo.20190114224818.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114224944.1"><vh>week18-期末考</vh>
+<v t="leo.20190114224944.2"><vh>學習課程</vh>
+<v t="leo.20190114224944.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114224944.4"><vh>week18 final project experience</vh>
+<v t="leo.20190114224944.5"><vh>experience</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
@@ -402,68 +428,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106211206.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106211206.2"># w13-15
-
-* 講解專題處理重點在程式控制
-* 學習利用Pandoc在Leo編輯期末報告
-* 學習如何將Markdown資料轉成PDF
-* 完成Onshape組合
-
-</t>
-<t tx="leo.20190106211221.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106211221.2"># w16
-
-* 解決所以報告上遇到的問題
-* 開始使用V-rep模擬運動
-
-</t>
-<t tx="leo.20190106211229.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106211229.2"># w17
-
-* 完成 Final Project
-* 完成機械手臂在 V-rep 的模擬
-* 學習如何在投影片放圖片
-
-</t>
-<t tx="leo.20190106211236.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106211236.2"># w18期末考
-
-心得 : 這學期我學最多的是在 Onshape 上，其他幾乎是靠其他組員一點點嘗試做出來的，我只有多多少少給一些可以參考的意見，並不算幫到很多忙。也覺得還有很多時間，所以並沒有很積極完成我應該做的部分，但還是在最後一刻做好做完我應該做的那部分。
-
-</t>
 <t tx="leo.20190114003609.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -711,7 +675,9 @@ make.start()
 <t tx="leo.20190114121826.3"># week7
 
 * github無法登入:本週一開始, 就碰到 Github 無法登入的問題
-* 發生原因:網路裝置與資料庫故障, 導致發生此一事件</t>
+* 發生原因:網路裝置與資料庫故障, 導致發生此一事件
+
+</t>
 <t tx="leo.20190114121826.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -784,12 +750,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190114122005.3"># week9
+<t tx="leo.20190114122005.3"># week9-期中考
 
 * 打自評成績
 * 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
 * 期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
-* 各組討論期末分組專題題目</t>
+* 各組討論期末分組專題題目
+
+</t>
 <t tx="leo.20190114122005.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -825,12 +793,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190114122121.3"># week9
+<t tx="leo.20190114122121.3"># week10-12
 
 * 整理Onshape示範手冊，並進行第一次協同
 * 討論所有工作分配
 * 進行機械手臂的設計、訂定規格
-* 學習如何在特定圖片加邊框</t>
+* 學習如何在特定圖片加邊框
+
+</t>
 <t tx="leo.20190114122121.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -842,7 +812,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190114122121.5">## week10 experience
+<t tx="leo.20190114122121.5">## week10 final project experience
 
 雖然我不在現場，但聽到組員討論出這週已經決定我們這組要做機械手臂，也分配好大家要負責什麼東西。大家好好配合一定可以完成這次報告
 
@@ -861,7 +831,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190114122215.2">## week11 experience
+<t tx="leo.20190114122215.2">## week11 final project experience
 
 由於這週還沒回學校，也還沒辦法一起討論，但看了他們所做的東西，大致上可以了解他們的想法跟進度。
 
@@ -880,10 +850,207 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190114122217.2">## week12 experience
+<t tx="leo.20190114122217.2">## week12 final project experience
 
 這週我還沒回學校，但看大家討論知道已經開始試著組合了，雖然之前有組合過其他的零件，但還有圖可以看，這次完全要靠大家設計的零件做組合沒有圖，可能要花多一些時間，讓畫出來的零件可以組合起來，並可以運動。
 
+
+
+
+</t>
+<t tx="leo.20190114224308.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114224308.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224308.3"># week13-15
+
+* 講解專題處理重點在程式控制
+* 學習利用Pandoc在Leo編輯期末報告
+* 學習如何將Markdown資料轉成PDF
+* 完成Onshape組合
+
+</t>
+<t tx="leo.20190114224308.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224308.5">## week13 final project experience
+
+這週回學校之後發現我有很多東西都不會，也沒有很清楚我們這組的機械手臂要怎麼呈現，所以現在最重要的是我要迅速知道我們這組要做什麼東西，不要拖累我們這組。
+
+
+
+</t>
+<t tx="leo.20190114224308.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224308.7">## week14 final project experience
+
+這週我大概知道我們這組進度已經到組合階段了，雖然還是有一些些問題，但都順利的解決了，補課的時間我也知道之後自己可以幫忙做些什麼了，但還不是很會用Onshape跟V-rep希望我可以盡快學會。
+
+
+
+</t>
+<t tx="leo.20190114224308.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224308.9">## week15 final project experience
+
+這週算是可以在Onshape上畫一些基本東西，也知道我們這組的機械手臂組合好了，接下來便是如何讓它運動了，希望我可以學快一點不要拖累大家。
+
+
+
+</t>
+<t tx="leo.20190114224600.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114224600.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224600.3"># week16
+
+* 解決所以報告上遇到的問題
+* 開始使用V-rep模擬運動
+</t>
+<t tx="leo.20190114224600.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224600.5">## week16 final project experience
+
+老師交代段考週要做完報告，錄製3分鐘的個人影片及15分鐘的各組現場報告，所以我們有討論影片內容以及每個人的工作，還有15分鐘報告要說什麼。我利用多的時間研究 Onshape 一些畫圖常用的指令，雖然都是英文，但還是可以畫出一些之前畫過的圖。
+
+
+
+</t>
+<t tx="leo.20190114224818.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114224818.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224818.3"># week17
+
+* 完成 Final Project
+* 完成機械手臂在 V-rep 的模擬
+* 學習如何在投影片放圖片
+</t>
+<t tx="leo.20190114224818.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224818.5">## week17 final project experience
+
+這星期我利用假日的時間，完成之前沒有做完的 Onshape 教學，雖然不多，但我還是花了不少時間，雖然沒有高中畫的難，但都是常用的建模指令，希望可以幫到我們這組一點點忙。
+
+
+
+</t>
+<t tx="leo.20190114224944.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114224944.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224944.3"># week18-期末考
+
+* 打期末自評成績
+* 各組上台報告期末專題
+
+</t>
+<t tx="leo.20190114224944.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114224944.5">## week18 final project experience
+
+這學期我學最多的是在 Onshape 上，其他幾乎是靠其他組員一點點嘗試做出來的，我只有多多少少給一些可以參考的意見，並不算幫到很多忙。也覺得還有很多時間，所以並沒有很積極完成我應該做的部分，但還是在最後一刻做好做完我應該做的那部分。
 
 
 
