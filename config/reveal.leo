@@ -24,10 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>w1</vh>
-<v t="leo.20180827201621.12"><vh>w1</vh></v>
-</v>
-<v t="leo.20190114003609.1" a="E"><vh>week1</vh>
+<v t="leo.20190114003609.1"><vh>week1</vh>
 <v t="leo.20190114003609.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114003609.3"><vh>學習課程</vh></v>
 </v>
@@ -35,32 +32,83 @@
 <v t="leo.20190114003609.5"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20181104221031.1"><vh>w2</vh>
-<v t="leo.20181104221031.3"><vh>w2</vh></v>
+<v t="leo.20190114121300.1"><vh>week2</vh>
+<v t="leo.20190114121300.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121300.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20181104221106.1"><vh>w3</vh>
-<v t="leo.20181104221106.4"><vh>w3</vh></v>
+<v t="leo.20190114121300.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121300.5"><vh>experience</vh></v>
 </v>
-<v t="leo.20181104221109.1"><vh>w4</vh>
-<v t="leo.20181104221109.5"><vh>w4</vh></v>
 </v>
-<v t="leo.20181104221110.1"><vh>w5</vh>
-<v t="leo.20181104221110.6"><vh>w5</vh></v>
+<v t="leo.20190114121447.1"><vh>week3</vh>
+<v t="leo.20190114121447.2"><vh>學習課程</vh>
+<v t="leo.20190114121447.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20181104221112.1"><vh>w6</vh>
-<v t="leo.20181104221112.7"><vh>w6</vh></v>
+<v t="leo.20190114121447.4"><vh>experience</vh>
+<v t="leo.20190114121447.5"><vh>experience</vh></v>
 </v>
-<v t="leo.20181104221114.1"><vh>w7</vh>
-<v t="leo.20181104221114.8"><vh>w7</vh></v>
 </v>
-<v t="leo.20181104221116.1"><vh>w8</vh>
-<v t="leo.20181104221116.9"><vh>w8</vh></v>
+<v t="leo.20190114121547.1"><vh>week4</vh>
+<v t="leo.20190114121547.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121547.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190106210905.1" a="E"><vh>w9期中考</vh>
-<v t="leo.20190106210905.2"><vh>w9期中考</vh></v>
+<v t="leo.20190114121547.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121547.5"><vh>experience</vh></v>
 </v>
-<v t="leo.20190106211153.1"><vh>w10-12</vh>
-<v t="leo.20190106211153.2"><vh>w10-12</vh></v>
+</v>
+<v t="leo.20190114121645.1"><vh>week5</vh>
+<v t="leo.20190114121645.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121645.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114121645.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121645.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114121735.1"><vh>week6</vh>
+<v t="leo.20190114121735.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121735.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114121735.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121735.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114121826.1"><vh>week7</vh>
+<v t="leo.20190114121826.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121826.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114121826.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121826.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114121912.1"><vh>week8</vh>
+<v t="leo.20190114121912.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114121912.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114121912.4" a="E"><vh>experience</vh>
+<v t="leo.20190114121912.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114122005.1"><vh>week9-期中考</vh>
+<v t="leo.20190114122005.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114122005.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114122005.4" a="E"><vh>experience</vh>
+<v t="leo.20190114122005.5"><vh>experience</vh></v>
+</v>
+</v>
+<v t="leo.20190114122121.1" a="E"><vh>week10-12</vh>
+<v t="leo.20190114122121.2" a="E"><vh>學習課程</vh>
+<v t="leo.20190114122121.3"><vh>學習課程</vh></v>
+</v>
+<v t="leo.20190114122121.4" a="E"><vh>week10experience</vh>
+<v t="leo.20190114122121.5"><vh>experience</vh></v>
+</v>
+<v t="leo.20190114122215.1" a="E"><vh>week11experience</vh>
+<v t="leo.20190114122215.2"><vh>experience</vh></v>
+</v>
+<v t="leo.20190114122217.1" a="E"><vh>week12experience</vh>
+<v t="leo.20190114122217.2"><vh>experience</vh></v>
+</v>
 </v>
 <v t="leo.20190106211206.1" a="E"><vh>w13-15</vh>
 <v t="leo.20190106211206.2"><vh>w13-15</vh></v>
@@ -181,21 +229,6 @@ Created by [40623204](http://lab.kmol.info/)
 
 [2018 Fall 分組網誌](./../blog/index.html)
 
-
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># w1
-
-* 根據 Github Pages 說明, 建立個人課程網頁 40623204.github.io
-* git clone https://github.com/mdecourse/2018fall 至近端, 以 40623204 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -369,140 +402,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104221031.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221031.3"># w2
-
-* Step1:依照Week1先去mde.tw領取個人倉儲
-* Step2:利用 Settings 將內定 branch 設為 gh-pages
-* Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
-
-* 註冊onshahape
-
-</t>
-<t tx="leo.20181104221106.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221106.4"># w3
-
-* 中秋佳節
-</t>
-<t tx="leo.20181104221109.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221109.5"># w4
-
-* 學習使用Onshape
-
-</t>
-<t tx="leo.20181104221110.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221110.6"># w5
-
-* 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
-* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
-
-</t>
-<t tx="leo.20181104221112.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221112.7"># w6
-
-* 以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
-* 說明如何升級最新的CMSimfly倉儲中的flaskapp.py
-</t>
-<t tx="leo.20181104221114.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221114.8"># w7
-
-* github無法登入:本週一開始, 就碰到 Github 無法登入的問題
-* 發生原因:網路裝置與資料庫故障, 導致發生此一事件
-</t>
-<t tx="leo.20181104221116.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104221116.9"># w8
-
-* Onshape與電腦輔助設計
-* 何謂雲端
-</t>
-<t tx="leo.20190106210905.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106210905.2"># w9期中考
-
-* 打自評成績
-* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
-* 期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
-* 各組討論期末分組專題題目
-</t>
-<t tx="leo.20190106211153.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106211153.2"># w10-12
-
-* 整理Onshape示範手冊，並進行第一次協同
-* 討論所有工作分配
-* 進行機械手臂的設計、訂定規格
-* 學習如何在特定圖片加邊框
-</t>
 <t tx="leo.20190106211206.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -599,7 +498,394 @@ make.start()
 </t>
 <t tx="leo.20190114003609.5">## week1 experience
 
-心得 : 雖然大一已經接觸過一點點 github ，但在上課的時候還是會有一些些聽不懂的地方，回家之後有看老師上傳的影片，現在能夠清楚知道老師上課要我們做什麼了。
+ 雖然大一已經接觸過一點點 github ，但在上課的時候還是會有一些些聽不懂的地方，回家之後有看老師上傳的影片，現在能夠清楚知道老師上課要我們做什麼了。
+
+</t>
+<t tx="leo.20190114121300.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121300.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121300.3"># week2
+
+* Step1:依照Week1先去mde.tw領取個人倉儲
+* Step2:利用 Settings 將內定 branch 設為 gh-pages
+* Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
+
+* 註冊onshahap
+</t>
+<t tx="leo.20190114121300.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121300.5">## week2 experience
+
+這週領了個人倉儲，上課老師也有講解網頁如何維護，雖然我有一些跟不上，但回家之後花一些時間，有慢慢知道該怎麼推東西到網站上。
+
+
+</t>
+<t tx="leo.20190114121447.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121447.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121447.3"># week3
+
+* 中秋佳節
+
+</t>
+<t tx="leo.20190114121447.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121447.5">## week3 experience
+
+中秋節快樂
+
+
+</t>
+<t tx="leo.20190114121547.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121547.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121547.3"># week4
+
+* 學習使用Onshape
+
+</t>
+<t tx="leo.20190114121547.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121547.5">## week4 experience
+
+這週開始學習 Onshape ，跟之前用過的繪圖軟體很相似，所以我用起來並沒有很多問題。只是在推上網站的時候發現之前有一個分支沒有改對，所以存的地方出現問題，還好問了同學之後問題解決了。
+
+</t>
+<t tx="leo.20190114121645.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121645.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121645.3"># week5
+
+* 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
+* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
+
+</t>
+<t tx="leo.20190114121645.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121645.5">## week5 experience
+
+這週我在花一些時間在 Onshape 上，練習一些指令，了解他要怎麼使用，怕之後分組做專題因為看不懂不熟悉畫不好，所以先提前學習一下，希望對之後有幫助。
+
+</t>
+<t tx="leo.20190114121735.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121735.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121735.3"># week6
+
+* 以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
+* 說明如何升級最新的CMSimfly倉儲中的flaskapp.py
+
+</t>
+<t tx="leo.20190114121735.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121735.5">## week6 experience
+
+因為10/12車禍，我受傷需要開刀，但是也有運用時間看老師上課的影片，這週學習以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程和如何升級最新的 CMSimfly 倉儲中的 flaskapp.py ，雖然不是很理解，但大概知道老師在說什麼。
+</t>
+<t tx="leo.20190114121826.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121826.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121826.3"># week7
+
+* github無法登入:本週一開始, 就碰到 Github 無法登入的問題
+* 發生原因:網路裝置與資料庫故障, 導致發生此一事件</t>
+<t tx="leo.20190114121826.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121826.5">## week7 experience
+
+這週我依舊因為車禍不能回學校上課，但我有花時間看一下老師更新的倉儲，知道了這周 Github 週一開始就無法登入，原因是網路裝置與資料庫故障，雖然我不太能理解，但我又去試著登入 Github ，確實是不能登入的。之後有花一些時間看老師給的影片跟倉儲中的解釋大概知道是怎麼一回事了。
+
+
+</t>
+<t tx="leo.20190114121912.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114121912.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121912.3"># week8
+
+* Onshape與電腦輔助設計
+* 何謂雲端
+</t>
+<t tx="leo.20190114121912.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114121912.5">## week8 experience
+
+這週我並沒有回學校，還是一樣在養病，但有看到老師倉儲更新的東西，知道上課內容跟雲端有關係，也知道第十週之後要開始分組協同做專題，我也有利用時間看影片，看完之後才知道原來雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少 。
+
+
+
+</t>
+<t tx="leo.20190114122005.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114122005.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114122005.3"># week9
+
+* 打自評成績
+* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+* 期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+* 各組討論期末分組專題題目</t>
+<t tx="leo.20190114122005.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114122005.5">## week9 experience
+
+這週我還在家裡養病，沒有回學校，上課內容是打期中自評成績跟做期末分組專題協同，專題選擇有 : 3D 列印機、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車、方程式賽車。我們這組在假日決定做機械手臂，相信六個人好好配合一定可以很好的呈現。
+
+
+
+
+</t>
+<t tx="leo.20190114122121.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190114122121.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114122121.3"># week9
+
+* 整理Onshape示範手冊，並進行第一次協同
+* 討論所有工作分配
+* 進行機械手臂的設計、訂定規格
+* 學習如何在特定圖片加邊框</t>
+<t tx="leo.20190114122121.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114122121.5">## week10 experience
+
+雖然我不在現場，但聽到組員討論出這週已經決定我們這組要做機械手臂，也分配好大家要負責什麼東西。大家好好配合一定可以完成這次報告
+
+
+
+
+</t>
+<t tx="leo.20190114122215.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114122215.2">## week11 experience
+
+由於這週還沒回學校，也還沒辦法一起討論，但看了他們所做的東西，大致上可以了解他們的想法跟進度。
+
+
+
+
+</t>
+<t tx="leo.20190114122217.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190114122217.2">## week12 experience
+
+這週我還沒回學校，但看大家討論知道已經開始試著組合了，雖然之前有組合過其他的零件，但還有圖可以看，這次完全要靠大家設計的零件做組合沒有圖，可能要花多一些時間，讓畫出來的零件可以組合起來，並可以運動。
+
+
+
 
 </t>
 </tnodes>
