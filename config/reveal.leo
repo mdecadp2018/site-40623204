@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190114003609.1"><vh>week1</vh>
+<v t="leo.20190114003609.1" a="E"><vh>week1</vh>
 <v t="leo.20190114003609.2"><vh>學習課程</vh>
 <v t="leo.20190114003609.3"><vh>學習課程</vh></v>
 </v>
@@ -32,7 +32,7 @@
 <v t="leo.20190114003609.5"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190114121300.1"><vh>week2</vh>
+<v t="leo.20190114121300.1" a="E"><vh>week2</vh>
 <v t="leo.20190114121300.2"><vh>學習課程</vh>
 <v t="leo.20190114121300.3"><vh>學習課程</vh></v>
 </v>
@@ -124,7 +124,7 @@
 <v t="leo.20190114224308.9"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190114224600.1"><vh>week16</vh>
+<v t="leo.20190114224600.1" a="E"><vh>week16</vh>
 <v t="leo.20190114224600.2"><vh>學習課程</vh>
 <v t="leo.20190114224600.3"><vh>學習課程</vh></v>
 </v>
@@ -132,7 +132,7 @@
 <v t="leo.20190114224600.5"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190114224818.1"><vh>week17</vh>
+<v t="leo.20190114224818.1" a="E"><vh>week17</vh>
 <v t="leo.20190114224818.2"><vh>學習課程</vh>
 <v t="leo.20190114224818.3"><vh>學習課程</vh></v>
 </v>
@@ -245,7 +245,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019Spring 個人網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -253,7 +253,7 @@ vertical: body pane on the botton</t>
 Created by [40623204](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2019Spring 個人網誌](./../blog/index.html)
 
 
 </t>
