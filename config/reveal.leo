@@ -24,120 +24,97 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190114003609.1" a="E"><vh>week1</vh>
-<v t="leo.20190114003609.2"><vh>學習課程</vh>
+<v t="leo.20190114003609.1"><vh>week1</vh>
+<v t="leo.20190114003609.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114003609.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114003609.4"><vh>experience</vh>
+<v t="leo.20190114003609.4" a="E"><vh>experience</vh>
 <v t="leo.20190114003609.5"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190114121300.1" a="E"><vh>week2</vh>
-<v t="leo.20190114121300.2"><vh>學習課程</vh>
+<v t="leo.20190114121300.1"><vh>week2</vh>
+<v t="leo.20190114121300.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121300.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121300.4"><vh>experience</vh>
+<v t="leo.20190114121300.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121300.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121447.1"><vh>week3</vh>
-<v t="leo.20190114121447.2"><vh>學習課程</vh>
+<v t="leo.20190114121447.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121447.3"><vh>學習課程</vh></v>
+<v t="leo.20190613161716.1"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121447.4"><vh>experience</vh>
+<v t="leo.20190114121447.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121447.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121547.1"><vh>week4</vh>
-<v t="leo.20190114121547.2"><vh>學習課程</vh>
+<v t="leo.20190114121547.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121547.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121547.4"><vh>experience</vh>
+<v t="leo.20190114121547.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121547.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121645.1"><vh>week5</vh>
-<v t="leo.20190114121645.2"><vh>學習課程</vh>
+<v t="leo.20190114121645.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121645.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121645.4"><vh>experience</vh>
+<v t="leo.20190114121645.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121645.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121735.1"><vh>week6</vh>
-<v t="leo.20190114121735.2"><vh>學習課程</vh>
+<v t="leo.20190114121735.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121735.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121735.4"><vh>experience</vh>
+<v t="leo.20190114121735.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121735.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121826.1"><vh>week7</vh>
-<v t="leo.20190114121826.2"><vh>學習課程</vh>
+<v t="leo.20190114121826.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121826.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121826.4"><vh>experience</vh>
+<v t="leo.20190114121826.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121826.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114121912.1"><vh>week8</vh>
-<v t="leo.20190114121912.2"><vh>學習課程</vh>
+<v t="leo.20190114121912.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114121912.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114121912.4"><vh>experience</vh>
+<v t="leo.20190114121912.4" a="E"><vh>experience</vh>
 <v t="leo.20190114121912.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114122005.1"><vh>week9-期中考</vh>
-<v t="leo.20190114122005.2"><vh>學習課程</vh>
+<v t="leo.20190114122005.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114122005.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114122005.4"><vh>experience</vh>
+<v t="leo.20190114122005.4" a="E"><vh>experience</vh>
 <v t="leo.20190114122005.5"><vh>experience</vh></v>
 </v>
 </v>
-<v t="leo.20190114122121.1"><vh>week10-12</vh>
-<v t="leo.20190114122121.2"><vh>學習課程</vh>
+<v t="leo.20190114122121.1" a="E"><vh>week10-12</vh>
+<v t="leo.20190114122121.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114122121.3"><vh>學習課程</vh></v>
 </v>
-<v t="leo.20190114122121.4"><vh>week10final project experience</vh>
-<v t="leo.20190114122121.5"><vh>experience</vh></v>
 </v>
-<v t="leo.20190114122215.1"><vh>week11final project experience</vh>
-<v t="leo.20190114122215.2"><vh>experience</vh></v>
-</v>
-<v t="leo.20190114122217.1"><vh>week12final project experience</vh>
-<v t="leo.20190114122217.2"><vh>experience</vh></v>
-</v>
-</v>
-<v t="leo.20190114224308.1"><vh>week13-15</vh>
-<v t="leo.20190114224308.2"><vh>學習課程</vh>
+<v t="leo.20190114224308.1" a="E"><vh>week13-15</vh>
+<v t="leo.20190114224308.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114224308.3"><vh>學習課程</vh></v>
-</v>
-<v t="leo.20190114224308.4"><vh>week13final project experience</vh>
-<v t="leo.20190114224308.5"><vh>experience</vh></v>
-</v>
-<v t="leo.20190114224308.6"><vh>week14final project experience</vh>
-<v t="leo.20190114224308.7"><vh>experience</vh></v>
-</v>
-<v t="leo.20190114224308.8"><vh>week15final project experience</vh>
-<v t="leo.20190114224308.9"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114224600.1" a="E"><vh>week16</vh>
-<v t="leo.20190114224600.2"><vh>學習課程</vh>
+<v t="leo.20190114224600.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114224600.3"><vh>學習課程</vh></v>
-</v>
-<v t="leo.20190114224600.4"><vh>week16 final project experience</vh>
-<v t="leo.20190114224600.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114224818.1" a="E"><vh>week17</vh>
-<v t="leo.20190114224818.2"><vh>學習課程</vh>
+<v t="leo.20190114224818.2" a="E"><vh>學習課程</vh>
 <v t="leo.20190114224818.3"><vh>學習課程</vh></v>
-</v>
-<v t="leo.20190114224818.4"><vh>week17 final project experience</vh>
-<v t="leo.20190114224818.5"><vh>experience</vh></v>
 </v>
 </v>
 <v t="leo.20190114224944.1"><vh>week18-期末考</vh>
@@ -446,9 +423,13 @@ make.start()
 </t>
 <t tx="leo.20190114003609.3"># week1
 
-* 根據 Github Pages 說明, 建立個人課程網頁 40623204.github.io
-* git clone https://github.com/mdecourse/2018fall 至近端, 以 40623204 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌
-</t>
+* 建立 Windows 64 位元可攜程式系統。
+  1下載 Python3.7.2 ，安裝 Python。
+  2.下載 HxD (打開 HxD 後，更改 pip)。
+  3.下載 SciTE (修改 code.page 使中文可在 SciTE上顯示)。
+  4.下載 KDiff (用來比較差異性的工具)。
+  5.下載 TCC (Tiny C Compiler)。
+  6.修改 start.bat 及 stop.bat。</t>
 <t tx="leo.20190114003609.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -462,9 +443,7 @@ make.start()
 </t>
 <t tx="leo.20190114003609.5">## week1 experience
 
- 雖然大一已經接觸過一點點 github ，但在上課的時候還是會有一些些聽不懂的地方，回家之後有看老師上傳的影片，現在能夠清楚知道老師上課要我們做什麼了。
-
-</t>
+ 這學期第一週，上課學系建立可攜式倉儲，之前都是老師建立好讓大家下載，今天自己親自做一次，才知道有很多繁瑣的步驟，也會遇到很多問題。收先要先下在 python3.7.2 、 hxd 、 scite、 kdiff 、 tcc ，並利用舊的可攜式倉儲的 start.bat 和 stop.bat  更改內容，這樣才能建立一個可攜式倉儲，過程中我遇到很多問，但都有一一解決，也從中學到很多之前不會的東西。</t>
 <t tx="leo.20190114121300.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -483,12 +462,7 @@ make.start()
 </t>
 <t tx="leo.20190114121300.3"># week2
 
-* Step1:依照Week1先去mde.tw領取個人倉儲
-* Step2:利用 Settings 將內定 branch 設為 gh-pages
-* Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
-
-* 註冊onshahap
-</t>
+228和平紀念日彈性放假</t>
 <t tx="leo.20190114121300.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -502,10 +476,7 @@ make.start()
 </t>
 <t tx="leo.20190114121300.5">## week2 experience
 
-這週領了個人倉儲，上課老師也有講解網頁如何維護，雖然我有一些跟不上，但回家之後花一些時間，有慢慢知道該怎麼推東西到網站上。
-
-
-</t>
+228和平紀念日彈性放假</t>
 <t tx="leo.20190114121447.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -524,9 +495,12 @@ make.start()
 </t>
 <t tx="leo.20190114121447.3"># week3
 
-* 中秋佳節
-
-</t>
+* 如何使用 ungit 進行檔案推送及版本的推還確認
+   1.先在y的home內部進行user config綁定
+   2.到python wsgi.py動態網站更改部分的資料
+   3.接著開啟ungit後進行commit上傳
+   4.上傳後再push即可更改成功
+   5.到warehousing尋找commit recond</t>
 <t tx="leo.20190114121447.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -540,10 +514,7 @@ make.start()
 </t>
 <t tx="leo.20190114121447.5">## week3 experience
 
-中秋節快樂
-
-
-</t>
+這週上課教如何在可攜程式系統中配置 ungit、使用ungit推送及版本推還確認，過程中發生按commit後會發生錯誤，之後發現原來是home底下身分綁定沒有更改導致錯誤，更改後就順利完成了。ungit之所以方便是因為在能夠打中文、擁有清楚的樹狀圖顯示新增了哪些東西，還能確定之前的版本是否可以取得，也能夠在必須時回到初始狀態編輯，更能清楚的詮釋更改或新增的東西，對於英文不太優秀的我來說是非常方便的。</t>
 <t tx="leo.20190114121547.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -562,9 +533,13 @@ make.start()
 </t>
 <t tx="leo.20190114121547.3"># week4
 
-* 學習使用Onshape
-
-</t>
+* 在可攜程式系統中加上 ungit 、利用 ssh 與 private key 對 Github 倉儲提交推送。
+   1.下載 cdb w4 版本.7z + nodejs_with_ungit.7z，(ungit 設定說明) 。
+   2.解壓縮後將 nodejs 放到 cd2019_cdb_w4 的 y 內。
+   3.更改 start.bat 路徑，可參考ungit 設定說明 。
+   4. clone cmstest 的倉儲。
+   5.設定 kungit 。
+   6. 打指令 kungit 。</t>
 <t tx="leo.20190114121547.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -578,9 +553,7 @@ make.start()
 </t>
 <t tx="leo.20190114121547.5">## week4 experience
 
-這週開始學習 Onshape ，跟之前用過的繪圖軟體很相似，所以我用起來並沒有很多問題。只是在推上網站的時候發現之前有一個分支沒有改對，所以存的地方出現問題，還好問了同學之後問題解決了。
-
-</t>
+這週開始進行分組製作實習事務2的手足球。上課內容是如何利用 ssh 與 private key 對 Github 倉儲提交推送設定 private key 可以節省輸入帳號密碼的時間，雖然方便但是如果隨身碟不見，必須將 private key 刪掉，否則撿到的人可以隨意更改原有東西。</t>
 <t tx="leo.20190114121645.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -599,10 +572,8 @@ make.start()
 </t>
 <t tx="leo.20190114121645.3"># week5
 
-* 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
-* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
-
-</t>
+* bubbleRob V-rep 模擬。
+* 專案分組-繪製實驗任務二-手足球-初始設計</t>
 <t tx="leo.20190114121645.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -616,9 +587,7 @@ make.start()
 </t>
 <t tx="leo.20190114121645.5">## week5 experience
 
-這週我在花一些時間在 Onshape 上，練習一些指令，了解他要怎麼使用，怕之後分組做專題因為看不懂不熟悉畫不好，所以先提前學習一下，希望對之後有幫助。
-
-</t>
+這週我們這組分配工作，我負責畫圖，這週我第一次嘗試用 Onshape 做組合圖，中間有很多都是其他組員跟我說要怎麼做的，所依我學到很多之前不知道的指令。上課前我還沒 clone 我們這組的倉儲，其他組員發現我有東西沒有下在，所以告訴我要怎麼用，要下載甚麼，也知道了可攜式倉儲有很多東西是我不知道的，要多多上網找資料跟好好學習。</t>
 <t tx="leo.20190114121735.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -637,8 +606,7 @@ make.start()
 </t>
 <t tx="leo.20190114121735.3"># week6
 
-* 以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
-* 說明如何升級最新的CMSimfly倉儲中的flaskapp.py
+* bubbleRob V-rep 模擬，延續上周部分。
 
 </t>
 <t tx="leo.20190114121735.4">&lt;section data-markdown&gt;
@@ -654,8 +622,7 @@ make.start()
 </t>
 <t tx="leo.20190114121735.5">## week6 experience
 
-因為10/12車禍，我受傷需要開刀，但是也有運用時間看老師上課的影片，這週學習以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程和如何升級最新的 CMSimfly 倉儲中的 flaskapp.py ，雖然不是很理解，但大概知道老師在說什麼。
-</t>
+這週因為該畫的圖都畫完了，所依我跟著大家練習模擬 v-rep ，上學期並沒有實際操作過，所以並不會打開，也是其他組員教我我才會的，後來看著老師給的資料慢慢做，但因為是英文，所以花了不少時間翻譯單字，下週會多花一些時間慢慢跟上大家的腳步，成功模擬出來。</t>
 <t tx="leo.20190114121826.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -674,10 +641,7 @@ make.start()
 </t>
 <t tx="leo.20190114121826.3"># week7
 
-* github無法登入:本週一開始, 就碰到 Github 無法登入的問題
-* 發生原因:網路裝置與資料庫故障, 導致發生此一事件
-
-</t>
+* 清明節放假</t>
 <t tx="leo.20190114121826.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -691,10 +655,7 @@ make.start()
 </t>
 <t tx="leo.20190114121826.5">## week7 experience
 
-這週我依舊因為車禍不能回學校上課，但我有花時間看一下老師更新的倉儲，知道了這周 Github 週一開始就無法登入，原因是網路裝置與資料庫故障，雖然我不太能理解，但我又去試著登入 Github ，確實是不能登入的。之後有花一些時間看老師給的影片跟倉儲中的解釋大概知道是怎麼一回事了。
-
-
-</t>
+清明節放假</t>
 <t tx="leo.20190114121912.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -713,9 +674,7 @@ make.start()
 </t>
 <t tx="leo.20190114121912.3"># week8
 
-* Onshape與電腦輔助設計
-* 何謂雲端
-</t>
+* 說明協同產品設計流程的教育目標、Building a clean model V-rep 模擬。</t>
 <t tx="leo.20190114121912.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -729,11 +688,7 @@ make.start()
 </t>
 <t tx="leo.20190114121912.5">## week8 experience
 
-這週我並沒有回學校，還是一樣在養病，但有看到老師倉儲更新的東西，知道上課內容跟雲端有關係，也知道第十週之後要開始分組協同做專題，我也有利用時間看影片，看完之後才知道原來雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少 。
-
-
-
-</t>
+這週開始模擬 V-rep ，中間我遇到一些問題，都是同組的組員教我的或告訴我在哪裡。又因為是英文，所以我花了四堂課才把實習任務2老師給的東西翻譯完模擬出來。但在模擬的時候會出現一個東西，希望之後可以找到原因。下課後我幫一個同組也不太會的組員模擬，雖然有做出來，但是因為一些東西更改錯誤，所以影響最後模擬出來的結果，最後是請老師幫忙找錯誤，我才知道我主從設定錯誤而影響組員的東西不能正常移動，後來又發現我沒有把名字改對，所以不能跟程式中的名稱應對，才使得我第二次模擬出來的東西一直怪怪的，不能正常移動。</t>
 <t tx="leo.20190114122005.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -752,11 +707,11 @@ make.start()
 </t>
 <t tx="leo.20190114122005.3"># week9-期中考
 
-* 打自評成績
-* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
-* 期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
-* 各組討論期末分組專題題目
-
+* 學員期中報告影片錄製。
+* 影片標題與說明。
+* 學員填寫自評表單。
+* 個人期中報告影片嵌入網頁。
+* 學員口頭期中報告。
 </t>
 <t tx="leo.20190114122005.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -771,10 +726,9 @@ make.start()
 </t>
 <t tx="leo.20190114122005.5">## week9 experience
 
-這週我還在家裡養病，沒有回學校，上課內容是打期中自評成績跟做期末分組專題協同，專題選擇有 : 3D 列印機、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車、方程式賽車。我們這組在假日決定做機械手臂，相信六個人好好配合一定可以很好的呈現。
-
-
-
+* 期中考，錄製3-5分鐘的影片，講述這學期開學至期中前座的所有事情。
+* https://www.youtube.com/watch?v=JGLqJvkakw4
+* 自評成績:70
 
 </t>
 <t tx="leo.20190114122121.1">&lt;section&gt;
@@ -795,69 +749,9 @@ make.start()
 </t>
 <t tx="leo.20190114122121.3"># week10-12
 
-* 整理Onshape示範手冊，並進行第一次協同
-* 討論所有工作分配
-* 進行機械手臂的設計、訂定規格
-* 學習如何在特定圖片加邊框
-
-</t>
-<t tx="leo.20190114122121.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114122121.5">## week10 final project experience
-
-雖然我不在現場，但聽到組員討論出這週已經決定我們這組要做機械手臂，也分配好大家要負責什麼東西。大家好好配合一定可以完成這次報告
-
-
-
-
-</t>
-<t tx="leo.20190114122215.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114122215.2">## week11 final project experience
-
-由於這週還沒回學校，也還沒辦法一起討論，但看了他們所做的東西，大致上可以了解他們的想法跟進度。
-
-
-
-
-</t>
-<t tx="leo.20190114122217.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114122217.2">## week12 final project experience
-
-這週我還沒回學校，但看大家討論知道已經開始試著組合了，雖然之前有組合過其他的零件，但還有圖可以看，這次完全要靠大家設計的零件做組合沒有圖，可能要花多一些時間，讓畫出來的零件可以組合起來，並可以運動。
-
-
-
-
-</t>
+* Onshape繪製實習任務三
+* 修改網站內容
+* 學習pull request</t>
 <t tx="leo.20190114224308.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -876,66 +770,9 @@ make.start()
 </t>
 <t tx="leo.20190114224308.3"># week13-15
 
-* 講解專題處理重點在程式控制
-* 學習利用Pandoc在Leo編輯期末報告
-* 學習如何將Markdown資料轉成PDF
-* 完成Onshape組合
-
-</t>
-<t tx="leo.20190114224308.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114224308.5">## week13 final project experience
-
-這週回學校之後發現我有很多東西都不會，也沒有很清楚我們這組的機械手臂要怎麼呈現，所以現在最重要的是我要迅速知道我們這組要做什麼東西，不要拖累我們這組。
-
-
-
-</t>
-<t tx="leo.20190114224308.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114224308.7">## week14 final project experience
-
-這週我大概知道我們這組進度已經到組合階段了，雖然還是有一些些問題，但都順利的解決了，補課的時間我也知道之後自己可以幫忙做些什麼了，但還不是很會用Onshape跟V-rep希望我可以盡快學會。
-
-
-
-</t>
-<t tx="leo.20190114224308.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114224308.9">## week15 final project experience
-
-這週算是可以在Onshape上畫一些基本東西，也知道我們這組的機械手臂組合好了，接下來便是如何讓它運動了，希望我可以學快一點不要拖累大家。
-
-
-
-</t>
+* 分析手足球
+* 更改手足球不足的地方
+* 學習如何使用pull request</t>
 <t tx="leo.20190114224600.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -954,27 +791,7 @@ make.start()
 </t>
 <t tx="leo.20190114224600.3"># week16
 
-* 解決所以報告上遇到的問題
-* 開始使用V-rep模擬運動
-</t>
-<t tx="leo.20190114224600.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114224600.5">## week16 final project experience
-
-老師交代段考週要做完報告，錄製3分鐘的個人影片及15分鐘的各組現場報告，所以我們有討論影片內容以及每個人的工作，還有15分鐘報告要說什麼。我利用多的時間研究 Onshape 一些畫圖常用的指令，雖然都是英文，但還是可以畫出一些之前畫過的圖。
-
-
-
-</t>
+* 變更手足球不足的地方</t>
 <t tx="leo.20190114224818.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -993,28 +810,10 @@ make.start()
 </t>
 <t tx="leo.20190114224818.3"># week17
 
-* 完成 Final Project
-* 完成機械手臂在 V-rep 的模擬
-* 學習如何在投影片放圖片
-</t>
-<t tx="leo.20190114224818.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190114224818.5">## week17 final project experience
-
-這星期我利用假日的時間，完成之前沒有做完的 Onshape 教學，雖然不多，但我還是花了不少時間，雖然沒有高中畫的難，但都是常用的建模指令，希望可以幫到我們這組一點點忙。
-
-
-
-</t>
+* 錄製期末學習影片
+* 完成個人倉儲編輯
+* 更新小組網站，將所有做好的東西推上去
+* 利用pull request將這學期自己做的東推到班級網站上</t>
 <t tx="leo.20190114224944.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1055,5 +854,12 @@ make.start()
 
 
 </t>
+<t tx="leo.20190613161716.1"># week3
+
+* 如何運用ungit回推版本:
+   1.先開啟ungit，並將某一個歷程編上tag
+   2.使用指令 git checkout 到所要的歷程，如下圖是到expw4-18，再開啟python wsgi.py確定是否回歸到版本。
+   3.接著回到當前版本需要使用指令 git checkout -- config/content.htm ， 接著用git checkout delprogress回到當前版本。
+   4.再次回到python wsgi.py內察看是否回到當前版本。</t>
 </tnodes>
 </leo_file>
